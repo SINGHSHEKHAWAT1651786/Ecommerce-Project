@@ -2,7 +2,7 @@
 
 🌍 Live Demo
 
-Check out the live project here: [Govind Portfolio](https://fullstack-ecommerce.netlify.app/)
+Check out the live project here: [Shopify E-commerce](https://fullstack-ecommerce.netlify.app/)
 
 ## Features Overview
 
