@@ -1,5 +1,9 @@
 # E-Commerce Application
 
+🌍 Live Demo
+
+Check out the live project here: [Govind Portfolio](https://fullstack-ecommerce.netlify.app/)
+
 ## Features Overview
 
 ### Bootstrap  Framework
