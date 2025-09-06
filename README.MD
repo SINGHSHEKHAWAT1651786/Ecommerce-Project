@@ -1,5 +1,6 @@
 # E-Commerce Application
-(Code in Master Branch)
+##(Code in Master Branch)
+
 🌍 Live Demo
 
 Check out the live project here: [Shopify E-commerce](https://fullstack-ecommerce.netlify.app/)
@@ -107,4 +108,5 @@ npm install --legacy-peer-deps
 
 Start the project:
 npm start
+
 
