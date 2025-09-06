@@ -1,5 +1,5 @@
 # E-Commerce Application
-#(Code in Master Branch)
+## (Code in Master Branch)
 
 🌍 Live Demo
 
@@ -108,6 +108,7 @@ npm install --legacy-peer-deps
 
 Start the project:
 npm start
+
 
 
 
